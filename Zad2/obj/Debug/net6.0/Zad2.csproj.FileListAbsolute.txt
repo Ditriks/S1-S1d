@@ -1,0 +1,15 @@
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.csproj.AssemblyReference.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.AssemblyInfoInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.AssemblyInfo.cs
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.csproj.CoreCompileInputs.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\bin\Debug\net6.0\Zad2.exe
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\bin\Debug\net6.0\Zad2.deps.json
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\bin\Debug\net6.0\Zad2.runtimeconfig.json
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\bin\Debug\net6.0\Zad2.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\bin\Debug\net6.0\Zad2.pdb
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\refint\Zad2.dll
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.pdb
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\Zad2.genruntimeconfig.cache
+C:\Users\Sapphire\Desktop\Study\GB\C#\Seminar1\Zad2\obj\Debug\net6.0\ref\Zad2.dll
